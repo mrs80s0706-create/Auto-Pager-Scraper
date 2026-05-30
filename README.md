@@ -1,7 +1,5 @@
 # 🚀 Auto-Pager Data Scraper (無限スクロール＆データ自動収集ツール)
 
-![Webサイトからの商品情報を自動収集するPythonスクレイピングツール](banner.png)
-
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-green)
 
